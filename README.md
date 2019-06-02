@@ -1,4 +1,4 @@
-# vcode
+# Vcode
 Visual studio code - Plugins
 - <a href="https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag">Auto close tag</a>
 - <a href="https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag">Auto Rename Tag</a>
