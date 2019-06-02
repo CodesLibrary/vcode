@@ -11,4 +11,4 @@ Visual studio code - Plugins
 - <a href="https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense">Path Intellisense</a>
 - <a href="https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple">Shades of Purple Theme</a>
 - <a href="https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss ">Tailwind CSS IntelliSense</a>
-- <a href="https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons">vscode-icons</a>
+- <a href="https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons">Vscode Icons</a>
